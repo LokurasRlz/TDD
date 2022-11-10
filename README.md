@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# School- library
+# TDD
 
->Simple ruby project that enables a library to track books.
+> Test deriven development on Ruby 
 
 ## Built With
 
