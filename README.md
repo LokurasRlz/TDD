@@ -8,6 +8,7 @@
 
 - Ruby
 - Rubocop
+- rspec
 
 
 
@@ -16,7 +17,7 @@
 ### To have a copy of this project running on your local machine, follow these commands:
 
 - Clone this repo to your local machine
-  - `git clone https://github.com/Agetuni/school-library ` 
+  - `https://github.com/LokurasRlz/TDD` 
 
 ## Authors
 
