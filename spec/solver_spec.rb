@@ -1,4 +1,5 @@
-require_relative '../solver'
+require_relative '../solver.rb'
+
 
 describe Solver do
   before :each do
@@ -25,7 +26,7 @@ describe Solver do
     end
 
     it 'raises exception if number is negative' do
-      expect { @solver.factorial(-1) }.to raise_error('Error, argument for factorial needs to be a +ve Int type')
+      expect { @solver.factorial(-1) }.to raise_error('Error, arguement for factorial needs to be a +ve Int type')
     end
 
     it 'raises exception if number is not an Int' do
